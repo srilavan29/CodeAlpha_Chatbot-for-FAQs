@@ -1,0 +1,34 @@
+[
+  {
+    "question": "What is Zylith?",
+    "answer": "Zylith is an advanced AI assistant designed to help you streamline your workflow and enhance productivity using state-of-the-art language models."
+  },
+  {
+    "question": "How do I create an account?",
+    "answer": "You can create an account by clicking the 'Sign Up' button on our homepage and following the registration steps."
+  },
+  {
+    "question": "Is Zylith free to use?",
+    "answer": "We offer a generous free tier for individuals. For advanced features and larger teams, we have Pro and Enterprise plans."
+  },
+  {
+    "question": "Which languages does Zylith support?",
+    "answer": "Currently, Zylith supports over 50 languages, including English, Spanish, French, German, Chinese, and Japanese."
+  },
+  {
+    "question": "How can I contact support or get help?",
+    "answer": "You can reach our support team via email at support@zylith.ai or through the live chat feature in your dashboard."
+  },
+  {
+    "question": "Is my data secure?",
+    "answer": "Yes, we use industry-standard encryption and follow strict security protocols to ensure your data is always protected."
+  },
+  {
+    "question": "Can I integrate Zylith with other tools?",
+    "answer": "Absolutely! Zylith offers robust APIs and pre-built integrations for Slack, Discord, Microsoft Teams, and more."
+  },
+  {
+    "question": "What if Zylith doesn't know the answer?",
+    "answer": "If Zylith is unsure, it will suggest searching our knowledge base or connecting you with a human representative."
+  }
+]
